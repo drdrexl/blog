@@ -1,0 +1,27 @@
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: 'UA-138415540-1'
+
+menu:
+- {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Posts', path: 'menu', url: 'posts.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'fab fa-github', link: 'https://www.github.com/drdrexl'}
+#- {icon: 'twitter', link: ''}
+#- {icon: 'linkedin', link: ''}
+- {icon: 'fas fa-envelope', link: 'mailto:hello@drexl.me'}
+- {icon: 'fas fa-rss-square', link: '/feed.xml'}
+# - {icon: 'rss-square', link: '/rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Share links'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'
