@@ -505,3 +505,10 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+.utterances {
+  margin-left: auto;
+  margin-right: auto;
+  width: 687px;
+  left: -68px;
+}
