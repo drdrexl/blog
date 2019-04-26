@@ -105,7 +105,7 @@ Make sure to enable the admin dashboard and write down your password.
 
 
 
-This should get you up and running. You can check that pihole is runnung with
+This should get you up and running. You can check that pihole is running with
 
 ```shell
 pihole status
