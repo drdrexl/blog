@@ -4,7 +4,7 @@ title: "Setting up an ad-blocking VPN with Wireguard and Pihole"
 author: "Drexl Spivey"
 categories: guides
 tags: [vpn,dns]
-image: wireguard.jpg
+image: /assets/img/wireguard.jpg
 ---
 
 

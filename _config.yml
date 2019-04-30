@@ -30,3 +30,6 @@ author:              'Drexl Spivey'
 #  path: rss-feed.xml
 
 # future: true
+
+twitter:
+  card: summary_large_image
